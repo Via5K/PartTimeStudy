@@ -32,3 +32,6 @@ int main(){
 }
 
 
+
+//O(N) Time
+//o(N) stack space

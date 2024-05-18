@@ -13,3 +13,6 @@ int main(){
     cout<<fact(n);
     return 0;
 }
+
+//O(N) Time
+//o(N) stack space
